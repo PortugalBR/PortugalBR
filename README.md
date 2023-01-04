@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PortugalBR
 - 👀 I’m interested in programming 
-- 🌱 I’m currently learning python ,django ,panda and others
+- 🌱 I’m currently learning python ,django.
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me portugalstumpf@hotmail.com
 
