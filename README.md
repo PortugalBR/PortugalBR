@@ -11,4 +11,4 @@ You can click the Preview link to take a look at your changes.
 
 - My portifolio is the file GAME.
 - there (GAME) I made a simple game, and a HangmanOOP is a objected-oriented in a diferent form.
-- I'm looking for a junior "Data Science job", or a junior "Python job".
+- I'm looking for a junior Data Science job, or a junior Python job.
