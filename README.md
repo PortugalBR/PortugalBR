@@ -1,14 +1,26 @@
-- 👋 Hi, I’m @PortugalBR
-- 👀 I’m interested in programming 
-- 🌱 I’m currently learning python ,django e ciencia de dados com pandas, numpy.
-- 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me portugalstumpf@hotmail.com
+## :wave: Hi there!!
+### 👽 About me:
+- :mag: Always curious, researching and building.
+- :memo: I'm always hardworking, dedicated and organized.
+- :ant: Always trying to communicate, help and work as a team.
 
-<!---
-PortugalBR/PortugalBR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### :earth_africa: Connect with me:
 
-- My portifolio is the file GAME.
-- there (GAME) I made a simple game, and a HangmanOOP is a objected-oriented in a diferent form.
-- I'm looking for a junior Data Science job, or a junior Python job.
+[<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunoportugalcode" height="22" title="LinkedIn" />](https://www.linkedin.com/in/brunoportugalcode/)
+
+<a href="https://medium.com/@bruno.portugal/about-me-e280f0ac2eda">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
+</a>
+
+
+### :octocat: skills with:
+
+
+<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />  <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />  <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" /> <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" /> <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" /> <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" /> <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" />
+          
+          
+          
+- I'm looking for a junior Data Science job or a junior Python job.
+
+  
+           
