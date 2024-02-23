@@ -20,6 +20,8 @@ Eu sou um estudante de Análise e Desenvolvimento de Sistemas e um entusiasta da
 </div>
 
 ## Projetos Destacados:
+  -[ Site com Imagens -S3 AWS](https://github.com/PortugalBR/portugal_site) - Um site com s3 para guardar imagens. ( 100% concluído) ![100%](https://progress-bar.dev/25)
+  
   - [ Crud completo - CRUD ](https://github.com/PortugalBR/) - Um projeto Django CRUD . ( 25% concluído) ![25%](https://progress-bar.dev/25)
 
   - [ Automação de certificados ](https://github.com/PortugalBR/automacao-de-certificados) - Uma automação para imprimir certificados. (75% concluído) ![75%](https://progress-bar.dev/75)
@@ -118,6 +120,8 @@ I'm a student of Systems Analysis and Development and a Python and Django progra
 
 ##  
 ## Featured Projects:
+  - [ Site com Imagens -S3 AWS](https://github.com/PortugalBR/portugal_site) - Um site com s3 para guardar imagens. ( 100% concluído) ![100%](https://progress-bar.dev/25)
+    
   - [ Crud completo - CRUD ](https://github.com/PortugalBR/) - Um projeto Django CRUD . ( 25% concluído) ![25%](https://progress-bar.dev/25)
 
   - [ Automação de certificados ](https://github.com/PortugalBR/automacao-de-certificados) - Uma automação para imprimir certificados. (75% concluído) ![75%](https://progress-bar.dev/75)
