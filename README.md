@@ -20,7 +20,7 @@ Eu sou um estudante de Análise e Desenvolvimento de Sistemas e um entusiasta da
 </div>
 
 ## Projetos Destacados:
-  -[ Site com Imagens -S3 AWS](https://github.com/PortugalBR/portugal_site) - Um site com s3 para guardar imagens. ( 100% concluído) ![100%](https://progress-bar.dev/100)
+  - [ Site com Imagens -S3 AWS](https://github.com/PortugalBR/portugal_site) - Um site com s3 para guardar imagens. ( 100% concluído) ![100%](https://progress-bar.dev/100)
   
   - [ Crud completo - CRUD ](https://github.com/PortugalBR/) - Um projeto Django CRUD . ( 25% concluído) ![25%](https://progress-bar.dev/25)
 
