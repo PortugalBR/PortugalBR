@@ -95,7 +95,7 @@ Eu sou um estudante de Análise e Desenvolvimento de Sistemas e um entusiasta da
 
 # ENGLISH
 # Hi, I'm Bruno Portugal! 👋
-I'm a student of Systems Analysis and Development and a Python and Django programming enthusiast. Currently studying ethical hacking.
+I'm a student of Systems Analysis and Development also Python and Django specialist programming enthusiast. Currently studying ethical hacking.
 
 ## :wave: Hi there!!
 ##
