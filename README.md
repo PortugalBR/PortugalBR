@@ -1,5 +1,4 @@
-## :wave: Hi there!!
-##
+
 # PORTUGUÊS
 # Olá, Eu Sou Bruno Portugal! 👋
 
