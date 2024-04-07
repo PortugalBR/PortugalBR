@@ -1,7 +1,24 @@
-# ENGLISH
-# Hi, I'm Bruno Portugal! 👋
-I'm a student of Systems Analysis and Development also Python and Django specialist programming enthusiast. Currently studying ethical hacking.
+<div align="center">
+  <table align="center">
+    <tr align="center">
+      <td>
+        <h1> English </h1>
+      </td>
+    </tr>
+  </table>
+</div>
 
+
+# Hi, I'm Bruno Portugal! 👋
+<div align="center">
+  <table align="center">
+    <tr align="center">
+      <td>
+        <h1> I'm a student of Systems Analysis and Development also Python and Django specialist programming enthusiast. Currently studying ethical hacking. </h1>
+      </td>
+    </tr>
+  </table>
+</div>
 ## :wave: Hi there!!
 ##
 
@@ -99,12 +116,30 @@ I'm a student of Systems Analysis and Development also Python and Django special
 ##
 ##
 
-# PORTUGUÊS
+<div align="center">
+  <table align="center">
+    <tr align="center">
+      <td>
+        <h1> PORTUGUÊS </h1>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
 # Olá, Eu Sou Bruno Portugal! 👋
 
-Eu sou um estudante de Análise e Desenvolvimento de Sistemas e um entusiasta da programação Python e Django. No momento estudando ethical hacking.
 ##
-
+<div align="center">
+  <table align="center">
+    <tr align="center">
+      <td>
+        <h1> Eu sou um estudante de Análise e Desenvolvimento de Sistemas e um entusiasta da programação Python e Django. No momento estudando ethical hacking.
+ </h1>
+      </td>
+    </tr>
+  </table>
+</div>
 ## Sobre Mim:
 
 - 📚 Atualmente, estou imerso em uma jornada de aprendizado que abrange Análise e Desenvolvimento de Sistemas, explorando diversas áreas e tecnologias.
