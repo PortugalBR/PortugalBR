@@ -2,12 +2,14 @@
   <table align="center">
     <tr align="center">
       <td>
-        <h1> English </h1>
+        <h1> - ENGLISH - </h1>
       </td>
     </tr>
   </table>
 </div>
 
+<br>
+<br>
 
 # Hi, I'm Bruno Portugal! 👋
 <div align="center">
@@ -19,12 +21,25 @@
     </tr>
   </table>
 </div>
+<br>
 
 ## :wave: Hi there!!
 
+<br>
+
 ##
 
-## 👽 About Me:
+<div align="center">
+  <table align="center">
+    <tr align="center">
+      <td>
+        <h1> 👽 About Me:
+        </h1>
+      </td>
+    </tr>
+  </table>
+</div>
+
 - I am currently immersed in a learning journey that encompasses Systems Analysis and Development, exploring various areas and technologies.
   
 - Learning ethical hacking.
@@ -41,8 +56,19 @@
   
 - :ant: Always trying to communicate, help and work as a team.
 
+
 ##  
-## Featured Projects:
+<div align="center">
+  <table align="center">
+    <tr align="center">
+      <td>
+        <h1> Featured Projects:
+        </h1>
+      </td>
+    </tr>
+  </table>
+</div>
+
   - [ Site com Imagens -S3 AWS](https://github.com/PortugalBR/portugal_site) - Um site com s3 para guardar imagens. ( 100% concluído) ![100%](https://progress-bar.dev/100)
     
   - [ Crud completo - CRUD ](https://github.com/PortugalBR/) - Um projeto Django CRUD . ( 25% concluído) ![25%](https://progress-bar.dev/25)
@@ -52,11 +78,32 @@
   - [ Bot de whatsapp ](https://github.com/PortugalBR/Whatapp-bot) - Repositório para aulas de whatapp bot. (100% concluído) ![100% ](https://progress-bar.dev/100)
 </div>
 
+
 ##
-##  skills with:
 
+<br>
 
-<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />  <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />  <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" /> <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" /> <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" /> <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" /> <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" />
+<div align="center">
+  <table align="center">
+    <tr align="center">
+      <td>
+        <h1> skills with :
+        </h1>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <table align="center">
+    <tr align="center">
+      <td>
+        <h1> <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />  <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" /> <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" /> <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" /> <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" /> <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" /> <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" />
+        </h1> 
+      </td>
+    </tr>
+  </table>
+</div>
 
 
   <div>
@@ -98,7 +145,7 @@
 
 ##
 ##
-
+<br>
 <div align="center">
   <table align="center">
     <tr align="center">
