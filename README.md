@@ -143,9 +143,13 @@
    - PostgreSQL <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="20" />
 </div>
 
-##
-##
+- I'm looking for a dev job.
+
+#
+#
+
 <br>
+
 <div align="center">
   <table align="center">
     <tr align="center">
@@ -170,21 +174,26 @@
   </table>
 </div>
 
-##
+<br>
+<br>
+
+#
 
 <div>
 
-##
-##
-##
-##
-##
+#
+
+<br>
+<br>
+<br>
+
+#
 
 <div align="center">
   <table align="center">
     <tr align="center">
       <td>
-        <h1> PORTUGUÊS </h1>
+        <h1> - PORTUGUÊS - </h1>
       </td>
     </tr>
   </table>
@@ -194,18 +203,27 @@
 # Olá, Eu Sou Bruno Portugal! 👋
 
 ##
+
 <div align="center">
   <table align="center">
     <tr align="center">
       <td>
         <h1> Eu sou um estudante de Análise e Desenvolvimento de Sistemas e um entusiasta da programação Python e Django. No momento estudando ethical hacking.
- </h1>
+        </h1>
       </td>
     </tr>
   </table>
 </div>
 
-## Sobre Mim:
+<div align="center">
+  <table align="center">
+    <tr align="center">
+      <td>
+        <h1> Sobre Mim: </h1>
+      </td>
+    </tr>
+  </table>
+</div>
 
 - 📚 Atualmente, estou imerso em uma jornada de aprendizado que abrange Análise e Desenvolvimento de Sistemas, explorando diversas áreas e tecnologias.
 
@@ -218,7 +236,16 @@
 -  💻 Utilizo Windows e Ubuntu como sistemas operacionais no meu dia a dia.
 </div>
 
-## Projetos Destacados:
+<div align="center">
+  <table align="center">
+    <tr align="center">
+      <td>
+        <h1> Projetos Destacados: </h1>
+      </td>
+    </tr>
+  </table>
+</div>
+
   - [ Site com Imagens -S3 AWS](https://github.com/PortugalBR/portugal_site) - Um site com s3 para guardar imagens. ( 100% concluído) ![100%](https://progress-bar.dev/100)
   
   - [ Crud completo - CRUD ](https://github.com/PortugalBR/) - Um projeto Django CRUD . ( 25% concluído) ![25%](https://progress-bar.dev/25)
@@ -228,11 +255,27 @@
   - [ Bot de whatsapp ](https://github.com/PortugalBR/Whatapp-bot) - Repositório para aulas de whatapp bot. (100% concluído) ![100%](https://progress-bar.dev/100)
 </div>
 
+<div align="center">
+  <table align="center">
+    <tr align="center">
+      <td>
+        <h1> Minhas Habilidades: </h1>
+      </td>
+    </tr>
+  </table>
+</div>
 
-##  Minhas Habilidades:
 
-
-<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />  <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />  <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" /> <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" /> <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" /> <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" /> <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" />
+<div align="center">
+  <table align="center">
+    <tr align="center">
+      <td>
+        <h1><img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />  <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />  <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" /> <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" /> <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" /> <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" /> <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" /> 
+        </h1>
+      </td>
+    </tr>
+  </table>
+</div>
 
 
   <div>
@@ -272,8 +315,6 @@
    - PostgreSQL <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="20" />
 </div>
           
-- I'm looking for a junior Data Science job or a junior Python job.
-
 
 ##
 
@@ -302,14 +343,33 @@
 </div>
 
 
-##
-##
-##
-##
-##
+#
 
-  ## Estatísticas:
+<br>
+<br>
+<br>
+<br>
 
-  <a href="https://github.com/PortugalBR">
+#
+
+<div align="center">
+  <table align="center">
+    <tr align="center">
+      <td>
+        <h1> Estatísticas: </h1>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <table align="center">
+    <tr align="center">
+      <td>
+        <h1> <a href="https://github.com/PortugalBR">
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PortugalBR&layout=compact&langs_count=7&theme=dracula"/><img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=PortugalBR&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+        </h1>
+      </td>
+    </tr>
+  </table>
 </div>
