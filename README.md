@@ -99,13 +99,28 @@
 ##
 ##
 
-## How to Contact Me:
+<div align="center">
+  <table align="center">
+    <tr align="center">
+      <td>
+        <h1> How to Contact Me: </h1>
+      </td>
+    </tr>
+  </table>
+</div>
 
-<div>
-
-  <a href = "mailto:bruno.pereiraportugaloliveira@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
-  <a href="https://www.linkedin.com/in/brunoportugalcode/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<div align="center">
+  <table align="center">
+    <tr align="center">
+      <td>
+        <h1> 
+          <a href = "mailto:bruno.pereiraportugaloliveira@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+          <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
+          <a href="https://www.linkedin.com/in/brunoportugalcode/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+        </h1>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ##
@@ -215,15 +230,30 @@
 
 ##
 
-## Como Entrar em Contato:
-
-
-<div>
-
-  <a href = "mailto:bruno.pereiraportugaloliveira@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
-  <a href="https://www.linkedin.com/in/brunoportugalcode/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<div align="center">
+  <table align="center">
+    <tr align="center">
+      <td>
+        <h1> Como Entrar em Contato: </h1>
+      </td>
+    </tr>
+  </table>
 </div>
+
+<div align="center">
+  <table align="center">
+    <tr align="center">
+      <td>
+        <h1> 
+          <a href = "mailto:bruno.pereiraportugaloliveira@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+          <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
+          <a href="https://www.linkedin.com/in/brunoportugalcode/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+        </h1>
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 ##
 ##
