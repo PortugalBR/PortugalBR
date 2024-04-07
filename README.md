@@ -88,15 +88,12 @@
   <table align="center">
     <tr align="center">
       <td>
-        <h1> skills with :
+        <h1> Skills with :
         </h1>
       </td>
     </tr>
   </table>
 </div>
-
-<br>
-<br>
 
 <div align="center">
   <table align="center">
@@ -109,6 +106,8 @@
   </table>
 </div>
 
+<br>
+<br>
 
   <div>
 
