@@ -58,6 +58,7 @@
 
 
 <br>
+<br>
 
 <div align="center">
   <table align="center">
@@ -81,6 +82,7 @@
 
 
 <br>
+<br>
 
 <div align="center">
   <table align="center">
@@ -92,6 +94,9 @@
     </tr>
   </table>
 </div>
+
+<br>
+<br>
 
 <div align="center">
   <table align="center">
@@ -146,6 +151,7 @@
 
 #
 
+<br>
 <br>
 
 <div align="center">
@@ -213,6 +219,9 @@
   </table>
 </div>
 
+<br>
+<br>
+
 <div align="center">
   <table align="center">
     <tr align="center">
@@ -222,6 +231,8 @@
     </tr>
   </table>
 </div>
+
+<br>
 
 - 📚 Atualmente, estou imerso em uma jornada de aprendizado que abrange Análise e Desenvolvimento de Sistemas, explorando diversas áreas e tecnologias.
 
@@ -233,6 +244,9 @@
 
 -  💻 Utilizo Windows e Ubuntu como sistemas operacionais no meu dia a dia.
 </div>
+
+<br>
+<br>
 
 <div align="center">
   <table align="center">
@@ -252,6 +266,9 @@
 
   - [ Bot de whatsapp ](https://github.com/PortugalBR/Whatapp-bot) - Repositório para aulas de whatapp bot. (100% concluído) ![100%](https://progress-bar.dev/100)
 </div>
+
+<br>
+<br>
 
 <div align="center">
   <table align="center">
@@ -275,6 +292,8 @@
   </table>
 </div>
 
+<br>
+<br>
 
   <div>
 
