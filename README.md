@@ -23,11 +23,9 @@
 </div>
 <br>
 
-## :wave: Hi there!!
+
 
 <br>
-
-##
 
 <div align="center">
   <table align="center">
@@ -57,7 +55,10 @@
 - :ant: Always trying to communicate, help and work as a team.
 
 
-##  
+
+
+<br>
+
 <div align="center">
   <table align="center">
     <tr align="center">
@@ -78,8 +79,6 @@
   - [ Bot de whatsapp ](https://github.com/PortugalBR/Whatapp-bot) - Repositório para aulas de whatapp bot. (100% concluído) ![100% ](https://progress-bar.dev/100)
 </div>
 
-
-##
 
 <br>
 
@@ -146,7 +145,6 @@
 - I'm looking for a dev job.
 
 #
-#
 
 <br>
 
@@ -177,17 +175,16 @@
 <br>
 <br>
 
-#
+
 
 <div>
 
+
 #
 
 <br>
 <br>
 <br>
-
-#
 
 <div align="center">
   <table align="center">
@@ -199,10 +196,11 @@
   </table>
 </div>
 
+<br>
 
 # Olá, Eu Sou Bruno Portugal! 👋
 
-##
+<br>
 
 <div align="center">
   <table align="center">
@@ -316,7 +314,10 @@
 </div>
           
 
-##
+#
+
+<br>
+<br>
 
 <div align="center">
   <table align="center">
@@ -343,7 +344,7 @@
 </div>
 
 
-#
+
 
 <br>
 <br>
@@ -351,6 +352,9 @@
 <br>
 
 #
+
+<br>
+<br>
 
 <div align="center">
   <table align="center">
