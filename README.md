@@ -19,7 +19,9 @@
     </tr>
   </table>
 </div>
+
 ## :wave: Hi there!!
+
 ##
 
 ## 👽 About Me:
@@ -140,6 +142,7 @@
     </tr>
   </table>
 </div>
+
 ## Sobre Mim:
 
 - 📚 Atualmente, estou imerso em uma jornada de aprendizado que abrange Análise e Desenvolvimento de Sistemas, explorando diversas áreas e tecnologias.
