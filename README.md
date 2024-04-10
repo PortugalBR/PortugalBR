@@ -38,6 +38,8 @@
   </table>
 </div>
 
+<td width="100" height="100" >
+  
 - I am currently immersed in a learning journey that encompasses Systems Analysis and Development, exploring various areas and technologies.
   
 - Learning ethical hacking.
@@ -54,7 +56,7 @@
   
 - :ant: Always trying to communicate, help and work as a team.
 
-
+</td>
 
 
 <br>
@@ -96,15 +98,120 @@
 </div>
 
 <div align="center">
-  <table align="center">
-    <tr align="center">
-      <td>
-        <h1> <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />  <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" /> <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" /> <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" /> <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" /> <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" /> <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" />
-        </h1> 
-      </td>
-    </tr>
-  </table>
+    <table align="center">
+        <tr align="center">
+            <td>
+                <a  href="https://www.linkedin.com/in/brunoportugalcode/">
+                <img src="https://raw.githubusercontent.com/PortugalBR/PortugalBR/main/static/img/python.png" width="100" height="100"/>
+                <br> Python</a>
+            </td>
+            <td>
+                <a  href="https://www.linkedin.com/in/brunoportugalcode/">
+                <img src="https://raw.githubusercontent.com/PortugalBR/PortugalBR/main/static/img/django2.png"  width="100" height="100"/>
+                <br> Django</a>
+            </td>
+            <td>
+                <a  href="https://www.linkedin.com/in/brunoportugalcode/">
+                <img src="https://raw.githubusercontent.com/PortugalBR/PortugalBR/main/static/img/git.png" width="100" height="100"/>
+                <br> Git</a>
+            </td>
+            <td>
+                <a  href="https://www.linkedin.com/in/brunoportugalcode/">
+                <img src="https://raw.githubusercontent.com/PortugalBR/PortugalBR/main/static/img/js.png"  width="100" height="100"/>
+                <br> JavaScript</a>
+            </td>
+       </tr>
+       <tr align="center">
+             <td>
+                <a  href="https://www.linkedin.com/in/brunoportugalcode/">
+                <img src="https://raw.githubusercontent.com/PortugalBR/PortugalBR/main/static/img/postgresql.png" width="100" height="100"/>
+                <br> Postgresql</a>
+            </td>
+            <td>
+                <a  href="https://www.linkedin.com/in/brunoportugalcode/">
+                <img src="https://raw.githubusercontent.com/PortugalBR/PortugalBR/main/static/img/react.png" width="100" height="100"/>
+                <br> React / Next JS</a>
+            </td>
+            <td>
+                <a  href="https://www.linkedin.com/in/brunoportugalcode/">
+                <img src="https://raw.githubusercontent.com/PortugalBR/PortugalBR/main/static/img/ts.png"  width="100" height="100"/>
+                <br> Type Script</a>
+            </td>
+            <td>
+                <a  href="https://www.linkedin.com/in/brunoportugalcode/">
+                <img src="https://raw.githubusercontent.com/PortugalBR/PortugalBR/main/static/img/visual_studio_code.png" width="100" height="100"/>
+                <br> Visual Studio Code</a>
+            </td>
+        </tr>
+       <tr align="center">
+            <td>
+                <a  href="https://www.linkedin.com/in/brunoportugalcode/">
+                <img src="https://raw.githubusercontent.com/PortugalBR/PortugalBR/main/static/img/html-5.png" width="100" height="100"/>
+                <br> Html 5</a>
+            </td>
+            <td>
+                <a  href="https://www.linkedin.com/in/brunoportugalcode/">
+                <img src="https://raw.githubusercontent.com/PortugalBR/PortugalBR/main/static/img/css-3.png"  width="100" height="100"/>
+                <br> Css 3</a>
+            </td>
+            <td>
+                <a  href="https://www.linkedin.com/in/brunoportugalcode/">
+                <img src="https://raw.githubusercontent.com/PortugalBR/PortugalBR/main/static/img/bootstrap.png"  width="100" height="100"/>
+                <br> Bootstrap </a>
+            </td>
+            <td>
+                <a  href="https://www.linkedin.com/in/brunoportugalcode/">
+                <img src="https://raw.githubusercontent.com/PortugalBR/PortugalBR/main/static/img/pycharm.png" width="100" height="100"/>
+                <br> Pycharm</a>
+            </td>
+       </tr>
+       <tr align="center">
+            <td>
+                <a  href="https://www.linkedin.com/in/brunoportugalcode/">
+                <img src="https://raw.githubusercontent.com/PortugalBR/PortugalBR/main/static/img/oracle.png" width="100" height="100"/>
+                <br> Oracle Cloud Infrastructure</a>
+            </td>
+            <td>
+                <a  href="https://www.linkedin.com/in/brunoportugalcode/">
+                <img src="https://raw.githubusercontent.com/PortugalBR/PortugalBR/main/static/img/mysql.png" width="100" height="100"/>
+                <br> Mysql</a>
+            </td>
+            <td>
+                <a  href="https://www.linkedin.com/in/brunoportugalcode/">
+                <img src="https://raw.githubusercontent.com/PortugalBR/PortugalBR/main/static/img/docker.png" width="100" height="100"/>
+                <br> Docker</a>
+            </td>
+            <td>
+                <a  href="https://www.linkedin.com/in/brunoportugalcode/">
+                <img src="https://raw.githubusercontent.com/PortugalBR/PortugalBR/main/static/img/aws.png" width="100" height="100"/>
+                <br> AWS</a>
+            </td>
+        </tr>
+        <tr align="center">
+            <td>
+                <a  href="https://www.linkedin.com/in/brunoportugalcode/">
+                <img width='100' height='100' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
+                <br> Pandas</a>
+            </td>
+            <td>
+                <a  href="https://www.linkedin.com/in/brunoportugalcode/">
+                <img width='100' height='100' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" />
+                <br> Numpy</a>
+            </td>
+            <td>
+                <a  href="https://www.linkedin.com/in/brunoportugalcode/">
+                <img width='100' height='100' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" />
+                <br> Sqlite</a>
+            </td>
+            <td>
+                <a  href="https://www.linkedin.com/in/brunoportugalcode/">
+                <img src="https://raw.githubusercontent.com/PortugalBR/PortugalBR/main/static/img/c#.png" width="100" height="100"/>
+                <br> C# </a>
+            </td>
+        </tr>
+    </table>
 </div>
+
 
 <br>
 <br>
@@ -112,11 +219,13 @@
   <div>
 
   - **Programming Languages:**
-    - Python <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" />
+    - Python <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" />
 
-    - HTML <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20"/>
+    - HTML <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30"/>
 
-    - CSS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20"/>
+    - CSS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30"/>
+
+    - JavaScript <img src="https://raw.githubusercontent.com/PortugalBR/PortugalBR/main/static/img/js.png"  width="30" height="30"/>
   </div>
   <div>
 
@@ -124,26 +233,26 @@
 <div>
 
  - **Frameworks:**
-   - Django <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="20" />
+   - Django <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="30" />
 
-   - Django Rest Framework <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="20" />
+   - Django Rest Framework <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="30" />
 </div>
 
   - **Other Tecnologies:**
-    - Git <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20" />
+    - Git <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" />
 
-    - GitHub <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20" />
+    - GitHub <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" />
   </div>
 </div>
           
 <div>
 
  - **Data bases:**
-   - SQLite <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="20" />
+   - SQLite <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="30" />
 
-   - MySQL <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="20"/>
+   - MySQL <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30"/>
 
-   - PostgreSQL <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="20" />
+   - PostgreSQL <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30" />
 </div>
 
 - I'm looking for a dev job.
@@ -191,188 +300,6 @@
 <br>
 <br>
 
-<div align="center">
-  <table align="center">
-    <tr align="center">
-      <td>
-        <h1> - PORTUGUÊS - </h1>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br>
-
-# Olá, Eu Sou Bruno Portugal! 👋
-
-<br>
-
-<div align="center">
-  <table align="center">
-    <tr align="center">
-      <td>
-        <h1> Eu sou um estudante de Análise e Desenvolvimento de Sistemas e um entusiasta da programação Python e Django. No momento estudando ethical hacking.
-        </h1>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br>
-<br>
-
-<div align="center">
-  <table align="center">
-    <tr align="center">
-      <td>
-        <h1> Sobre Mim: </h1>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br>
-
-- 📚 Atualmente, estou imerso em uma jornada de aprendizado que abrange Análise e Desenvolvimento de Sistemas, explorando diversas áreas e tecnologias.
-
-- 📖 Aprendendo ethical hacking.
-
-- 💻 Sou um desenvolvedor Python e tenho grande interesse no framework Django.
-
-- 🌱 Estou sempre em busca de aprender algo novo e melhorar minhas habilidades.
-
--  💻 Utilizo Windows e Ubuntu como sistemas operacionais no meu dia a dia.
-</div>
-
-<br>
-<br>
-
-<div align="center">
-  <table align="center">
-    <tr align="center">
-      <td>
-        <h1> Projetos Destacados: </h1>
-      </td>
-    </tr>
-  </table>
-</div>
-
-  - [ Site com Imagens -S3 AWS](https://github.com/PortugalBR/portugal_site) - Um site com s3 para guardar imagens. ( 100% concluído) ![100%](https://progress-bar.dev/100)
-  
-  - [ Crud completo - CRUD ](https://github.com/PortugalBR/) - Um projeto Django CRUD . ( 25% concluído) ![25%](https://progress-bar.dev/25)
-
-  - [ Automação de certificados ](https://github.com/PortugalBR/automacao-de-certificados) - Uma automação para imprimir certificados. (75% concluído) ![75%](https://progress-bar.dev/75)
-
-  - [ Bot de whatsapp ](https://github.com/PortugalBR/Whatapp-bot) - Repositório para aulas de whatapp bot. (100% concluído) ![100%](https://progress-bar.dev/100)
-</div>
-
-<br>
-<br>
-
-<div align="center">
-  <table align="center">
-    <tr align="center">
-      <td>
-        <h1> Minhas Habilidades: </h1>
-      </td>
-    </tr>
-  </table>
-</div>
-
-
-<div align="center">
-  <table align="center">
-    <tr align="center">
-      <td>
-        <h1><img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />  <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />  <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" /> <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" /> <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" /> <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" /> <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" /> 
-        </h1>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br>
-<br>
-
-  <div>
-
-  - **Linguagens de programação :**
-    - Python <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" />
-
-    - HTML <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20"/>
-
-    - CSS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20"/>
-  </div>
-  <div>
-
-
-<div>
-
- - **Frameworks:**
-    - Django <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="20" />
-
-    - Django Rest Framework <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="20" />
-</div>
-
-  - **Outras Tecnologias:**
-    - Git <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20" />
-
-    - GitHub <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20" />
-  </div>
-</div>
-          
-<div>
-
- - **Banco de Dados:**
-   - SQLite <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="20" />
-
-   - MySQL <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="20"/>
-
-   - PostgreSQL <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="20" />
-</div>
-          
-
-#
-
-<br>
-<br>
-
-<div align="center">
-  <table align="center">
-    <tr align="center">
-      <td>
-        <h1> Como Entrar em Contato: </h1>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <table align="center">
-    <tr align="center">
-      <td>
-        <h1> 
-          <a href = "mailto:bruno.pereiraportugaloliveira@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-          <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
-          <a href="https://www.linkedin.com/in/brunoportugalcode/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-        </h1>
-      </td>
-    </tr>
-  </table>
-</div>
-
-
-
-
-<br>
-<br>
-<br>
-<br>
-
-#
-
-<br>
-<br>
 
 <div align="center">
   <table align="center">
