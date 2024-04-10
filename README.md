@@ -205,7 +205,7 @@
             </td>
             <td>
                 <a  href="https://www.linkedin.com/in/brunoportugalcode/">
-                <img src="https://raw.githubusercontent.com/PortugalBR/PortugalBR/main/static/img/c#.png" width="100" height="100"/>
+                <img src="https://raw.githubusercontent.com/PortugalBR/PortugalBR/main/static/img/c4.png" width="100" height="100"/>
                 <br> C# </a>
             </td>
         </tr>
