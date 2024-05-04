@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=120&section=header"/>
+
 <div align="center">
   <table align="center">
     <tr align="center">
@@ -10,6 +12,11 @@
 
 <br>
 <br>
+
+<div align="center"> 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9370DB&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Bruno+Portugal;I'm+30+years+old;I+am+from+Brasília,+DF;I+study+analysis+and+systems+development+;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
 
 # Hi, I'm Bruno Portugal! 👋
 <div align="center">
@@ -58,6 +65,11 @@
 
 </td>
 
+
+<br>
+<br>
+
+[![PortugalBR's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PortugalBR&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/PortugalBR/github-readme-activity-graph)
 
 <br>
 <br>
@@ -216,6 +228,7 @@
 <br>
 <br>
 
+
   <div>
 
   - **Programming Languages:**
@@ -322,3 +335,10 @@
     </tr>
   </table>
 </div>
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{PortugalBR}/count.svg" /></p> 
+<br></div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=120&section=footer"/>
