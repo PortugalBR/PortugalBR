@@ -5,7 +5,7 @@
   <table align="center">
     <tr align="center">
       <td>
-        <h1> - ENGLISH - </h1>
+        <h1>- ENGLISH -</h1>
       </td>
     </tr>
   </table>
@@ -24,7 +24,7 @@
   <table align="center">
     <tr align="center">
       <td>
-        <h1> I'm a student of Systems Analysis and Development also Python and Django specialist programming enthusiast. Currently studying ethical hacking. </h1>
+        <h1>I'm a student of Systems Analysis and Development also Python and Django specialist programming enthusiast. Currently studying ethical hacking.</h1>
       </td>
     </tr>
   </table>
@@ -103,7 +103,7 @@
   <table align="center">
     <tr align="center">
       <td>
-        <h1> Skills with :
+        <h1> Skills with:
         </h1>
       </td>
     </tr>
@@ -291,7 +291,7 @@
     <tr align="center">
       <td>
         <h1> 
-          <a href = "mailto:bruno.pereiraportugaloliveira@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+          <a href="mailto:bruno.pereiraportugaloliveira@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
           <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
           <a href="https://www.linkedin.com/in/brunoportugalcode/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
         </h1>
@@ -319,7 +319,7 @@
   <table align="center">
     <tr align="center">
       <td>
-        <h1> Estatísticas: </h1>
+        <h1>Estatísticas:</h1>
       </td>
     </tr>
   </table>
